@@ -4,4 +4,4 @@ I build small systems and tools, with a bias for simplicity and reliability.
 
 Interests: backend engineering, data, failure modes, observability.
 
-Contact: <email or preferred handle>
+Contact: diwillkot@gmail.com
